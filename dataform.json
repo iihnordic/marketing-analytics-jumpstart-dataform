@@ -10,7 +10,7 @@
     "ga4_export_dataset": "387491582",
     "ga4_export_table_suffix": "_*",
     "ga4_incremental_processing_days_back": "3",
-    "ads_export_data": "[{\"project\": \"PROJECT_ID\",\"dataset\": \"DATASET_NAME\", \"table_suffix\": \"_123456\"},{\"project\": \"PROJECT_ID\",\"dataset\": \"DATASET_NAME\",\"table_suffix\": \"_34567890\"}]",
+    "ads_export_data": "[{\"project\": \"iih-e-invasion\",\"dataset\": \"google_ads_e_invasion\",\"table_suffix\": \"_5636267227\"}]",
   "ads_metrics_lookback_days": "365"
   }
 } 
